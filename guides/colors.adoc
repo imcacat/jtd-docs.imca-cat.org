@@ -1,0 +1,31 @@
+---
+title: "IMCA-CAT Color Palette"
+---
+= IMCA-CAT Color Palette
+:revdate: 2024-04-29
+:source-highlighter: rouge
+:rouge-style: imca_cat
+
+
+Red: EA332C +
+Blue: 285EE7
+
+[#index_red_header]
+== Index Red: EA332C
+[options="header"]
+|===
+| Combination | HEX | RGB
+| Red | pass:[<span class="logo-red">EA332C</span>] | pass:[<span class="logo-red">rgb(234, 51, 44)</span>]
+| Complementary | pass:[<span class="logo-red-complementary">2CE3EA</span>] |
+| Monochromatic | pass:[<span class="logo-red-monochromatic">CE1B15</span>] |
+|===
+
+[#index_blue_header]
+== Index Blue: 285EE7
+[options="header"]
+|===
+| Combination | HEX | RGB
+| Blue | pass:[<span class="logo-blue">285EE7</span>] | pass:[<span class="logo-blue">rgb(40, 94, 231)</span>]
+| Complementary | pass:[<span class="logo-blue-complementary">E7B128</span>] |
+| Monochromatic | pass:[<span class="logo-blue-monochromatic">1648C6</span>] |
+|===
